@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" role="img" aria-labelledby="title desc">
+<title id="title">Minh họa Chạm Hồn Việt</title><desc id="desc">Cô gái Việt trong tà áo dài, hoa sen, trống đồng và mái đình dưới ánh hoàng hôn.</desc>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#d85a34"/><stop offset=".48" stop-color="#8b171a"/><stop offset="1" stop-color="#3c080d"/></linearGradient>
+ <linearGradient id="silk" x2="1" y2="1"><stop stop-color="#fff4db"/><stop offset=".55" stop-color="#e8c99a"/><stop offset="1" stop-color="#fffaf0"/></linearGradient>
+ <linearGradient id="gold" x2="0" y2="1"><stop stop-color="#ffe7a6"/><stop offset="1" stop-color="#c98531"/></linearGradient>
+ <radialGradient id="sun"><stop stop-color="#ffe9ae" stop-opacity=".9"/><stop offset="1" stop-color="#f7bb64" stop-opacity="0"/></radialGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="18"/></filter>
+</defs>
+<rect width="900" height="900" rx="38" fill="url(#bg)"/>
+<circle cx="680" cy="300" r="300" fill="url(#sun)"/>
+<g opacity=".34" fill="none" stroke="#f7d58b"><circle cx="600" cy="360" r="275" stroke-width="3"/><circle cx="600" cy="360" r="245" stroke-width="2" stroke-dasharray="7 12"/><circle cx="600" cy="360" r="210" stroke-width="2"/><path d="M600 125l20 65 65-20-20 65 65 20-65 20 20 65-65-20-20 65-20-65-65 20 20-65-65-20 65-20-20-65 65 20z" stroke-width="4"/></g>
+<path d="M0 620 Q150 540 310 630T620 620T900 570V900H0Z" fill="#5b0d12" opacity=".6"/>
+<g transform="translate(45 430)" fill="#f7c76e" opacity=".9"><path d="M0 115h300v18H0zM25 65h250v50H25z"/><path d="M0 65q150-110 300 0z"/><path d="M45 48q105-90 210 0z"/><path d="M70 12q80-75 160 0z"/><path d="M80 65v50m45-50v50m50-50v50m45-50v50" stroke="#5c1714" stroke-width="8"/><path d="M10 115h280" stroke="#5c1714" stroke-width="8"/></g>
+<g transform="translate(440 100)">
+ <ellipse cx="220" cy="690" rx="220" ry="42" fill="#230508" opacity=".35"/>
+ <path d="M165 185q-70 20-83 120l-42 360q-5 55 65 60h270q75-5 58-75l-95-380q-20-72-95-85z" fill="url(#silk)" stroke="#d7b67b" stroke-width="5"/>
+ <path d="M157 205q-35 120-20 250l-80 260q95 85 185 25l-5-505z" fill="#fff8e9" opacity=".55"/>
+ <path d="M135 245q85 65 175 0" fill="none" stroke="#d6b67e" stroke-width="5"/>
+ <path d="M130 390q85 55 190 0M115 500q100 45 225 0M100 610q115 40 250 0" fill="none" stroke="#d9bb83" stroke-width="3" opacity=".8"/>
+ <path d="M145 195q-40-100 35-150 90-55 155 25 28 35 15 105-35-35-85-40-60 40-120 60z" fill="#171016"/>
+ <ellipse cx="218" cy="130" rx="72" ry="88" fill="#e9b18e"/>
+ <path d="M151 132q-15-100 65-115 85 0 103 83-58-48-120-20-22 24-48 52z" fill="#20141a"/>
+ <path d="M158 122q-28 120-2 220-58-65-48-175zM280 100q62 100 20 215 70-78 50-175z" fill="#20141a"/>
+ <path d="M155 200q60 35 130 0" fill="none" stroke="#d08b70" stroke-width="5"/>
+ <path d="M181 133q18-12 32 0m31 0q18-12 32 0" stroke="#5a2a27" stroke-width="5" fill="none"/>
+ <circle cx="160" cy="160" r="8" fill="#f5d98f"/><circle cx="305" cy="160" r="8" fill="#f5d98f"/>
+ <path d="M210 175q18 14 36 0" stroke="#a84e49" stroke-width="4" fill="none"/>
+ <path d="M225 210q-25 65-40 120m40-120q25 65 50 120" stroke="#c58d50" stroke-width="4" fill="none"/>
+</g>
+<g transform="translate(90 120)" fill="none" stroke="url(#gold)" stroke-width="9" stroke-linecap="round">
+ <path d="M95 180q-75-80-95 0 70 40 95 0zm0 0q-20-110 25-120 45 70-25 120zm0 0q50-110 105-70-10 80-105 70zm0 0q100-25 110 45-70 45-110-45zm0 0q-85 40-55 105 75-10 55-105z"/>
+ <path d="M95 180v120"/>
+</g>
+<g transform="translate(700 620)" fill="none" stroke="#f7d58b" stroke-width="8"><path d="M0 80q65-80 130 0-65 80-130 0zm65-80q-55 65 0 130 55-65 0-130zM65 15v130"/></g>
+<path d="M0 800q180-90 350 0t550 0v100H0z" fill="#2e070b" opacity=".65"/>
+</svg>
